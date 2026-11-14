@@ -1,7 +1,7 @@
 ```
 São Mateus - ES, Brazil 🇧🇷;
 21 years old;
-Fifth semester CS student @ UFES São Mateus;
+5th semester CS student @ UFES São Mateus;
 ```
 ## Languages / Tools:
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
